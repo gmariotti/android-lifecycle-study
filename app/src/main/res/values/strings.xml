@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyApplicationLifecycle</string>
+    <string name="on_activity_result_text">onActivityResult</string>
+    <string name="finish_text">Finish</string>
+</resources>
